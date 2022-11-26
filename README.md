@@ -1,2 +1,2 @@
 # zpoif
-laby punktowane z Zaawansowanego Programowania Obiektowego i Funkcyjnego
+materiały z Zaawansowanego Programowania Obiektowego i Funkcyjnego
